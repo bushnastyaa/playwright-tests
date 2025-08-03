@@ -1,4 +1,4 @@
-# Playwright Testing – Demoblaze
+# Playwright Testing
 
 Автоматизированные тесты для интернет-магазина **Demoblaze**, написанные с использованием:
 
@@ -9,13 +9,13 @@
 
 ## Установка
 1. Клонируйте репозиторий
-   ```bash
-   git clone https://github.com/bushnastyaa/selenium-tests.git
-   cd selenium-tests
+```bash
+git clone https://github.com/bushnastyaa/selenium-tests.git
+cd selenium-tests
 2. Установите зависимости
-   ```bash
-   npm install
+```bash
+npm install
 
 ## Запуск тестов
 ```bash
-   npx playwright test
+npx playwright test
